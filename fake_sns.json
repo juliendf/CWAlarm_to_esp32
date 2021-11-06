@@ -1,0 +1,15 @@
+{
+    "Records": [
+      {
+        "EventSource": "aws:sns",
+        "EventVersion": "1.0",
+        "Sns": {
+          "Type": "Notification",
+          "MessageId": "Test",
+          "Subject": "ALARM: \"TEST ESP32\" in EU (Paris)",
+          "Message": "{\"AlarmName\":\"TEST ESP32\",\"AlarmDescription\":null,\"AWSAccountId\":\"xxx\",\"NewStateValue\":\"ALARM\"}",
+          "MessageAttributes": {}
+        }
+      }
+    ]
+  }

@@ -1,0 +1,5 @@
+src_esp/certs.h
+src_esp/parameters.h
+outputs/*
+*.zip
+src_lambda/parameters.py

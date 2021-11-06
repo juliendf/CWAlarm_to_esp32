@@ -1,9 +1,3 @@
----
-title: "CloudwatchAlarmToESP32"
-date: 2021-10-11T22:16:33+02:00
-draft: true
----
-
 # Introduction
 In this repository we'll create all elements required to receive your cloudwatch alarms ont you ESP device and get the LED notifications
 The flow chain will be: 

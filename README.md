@@ -4,6 +4,7 @@ The flow chain will be:
 ```
 Cloudwatch Alarm > SNS Topic > Lambda > MQTT > IOT Device
 ```
+![Alt text](image/CWtoESP.jpg "Archi diagram")
 ***
 
 First you'll need to clone this repo :
